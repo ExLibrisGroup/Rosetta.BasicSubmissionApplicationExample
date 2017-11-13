@@ -48,7 +48,6 @@ public class FullFlowExample {
 	static final String filesRootFolder = "data/depositExamples//DepositExample1/content/streams/";
 	static final String IEfullFileName = folder_on_working_machine + "/DepositExample1/content/ie1.xml";
 
-	static final String PDS_URL = "http://il-dtldev04:8992/pds";
 	static final String DEPOSIT_WSDL_URL = "http://localhost:1801/dpsws/deposit/DepositWebServices?wsdl";
 	static final String PRODUCER_WSDL_URL = "http://localhost:1801/dpsws/backoffice/ProducerWebServices?wsdl";
 	static final String SIP_STATUS_WSDL_URL = "http://localhost:1801/dpsws/repository/SipWebServices?wsdl";
